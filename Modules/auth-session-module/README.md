@@ -6,7 +6,7 @@
 - 세션 유무 체크, 세션 기간 연장
 
 ## 시연 영상 링크
-https://youtu.be/-97frAKdbbw
+- https://youtu.be/-97frAKdbbw
 
 ## 엔드포인트
 #### 회원가입
