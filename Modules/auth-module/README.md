@@ -24,4 +24,5 @@
   - 요청: `HttpServletRequest request`
  
 ## 시연 영상
+[![세션기반인증 모듈 시연영상](http://googleusercontent.com/youtube.com/7)](https://youtu.be/-97frAKdbbw)
 https://youtu.be/-97frAKdbbw
