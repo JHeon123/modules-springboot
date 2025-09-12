@@ -9,6 +9,7 @@
 - https://youtu.be/-97frAKdbbw
 
 ## 엔드포인트
+
 #### 회원가입
 - **POST** `/api/signup`  
   - Request Body: `SignupRequestDto`
