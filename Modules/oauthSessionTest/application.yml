@@ -1,0 +1,11 @@
+spring:
+  security:
+    oauth2:
+      client:
+        registration:
+          google: # 'google'은 임의의 ID가 아닌, Spring이 정해둔 Provider ID
+            client-id: .apps.googleusercontent.com
+            client-secret: 
+            scope:
+              - profile
+              - email
